@@ -95,10 +95,13 @@ Here is a more advanced exercise for integrating scRNA-seq Visium spatial data (
 https://scanpy-tutorials.readthedocs.io/en/latest/spatial/integration-scanorama.html
 
 For the lastest protocol on integrating multiple scRNA-seq datasets using Scanorama in a Jupyter notebook within Google Colab, see this detailed guide in Nature Protocols (https://doi.org/10.1038/s41596-024-00991-3).
+
 Small dataset (293% and Jurkat) example: https://colab.research.google.com/drive/12hNry9nlMgZRubGUiXbz0Veqeh2WhcU?
 usp=sharing
+
 Large dataset1 (26 datasets) example: https://colab.research.google.com/drive/1OZrdeT1ob2FSSgTSK8Qa3hijoW1bb9Y3?
 usp=sharing
+
 Large dataset2 (Tabula Sapiens datasets) example: https://
 colab.research.google.com/drive/1X6ssJI9jTzqRJ9QQ44YffSvUhnlv2kR7?usp=sharing
 
